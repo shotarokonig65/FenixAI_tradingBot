@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Fenix Ai Trading Bot with LangGraph and ollama and multipe providers"
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
+# drop an unused branch
